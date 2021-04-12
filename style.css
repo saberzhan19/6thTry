@@ -1,0 +1,11 @@
+*{
+    background: lightgreen;
+}
+.da{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+img{
+    width: 700px;
+}
